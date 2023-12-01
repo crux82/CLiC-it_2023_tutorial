@@ -31,7 +31,7 @@ The overall process is divided in four steps:
 
 ### Slides
 
-The repository also features **tutorial slides** ([LINK](https://github.com/crux82/CLiC-it_2023_tutorial/blob/main/CLIC2023_tutorial.pdf)).
+The repository also features **tutorial slides** ([LINK](https://github.com/crux82/CLiC-it_2023_tutorial/blob/main/CLiC-it_2023_tutorial.pdf)).
 
 For queries or suggestions, raise an Issue in this repository or email  [croce@info.uniroma2.it](mailto:croce@info.uniroma2.it) or [hromei@ing.uniroma2.it](mailto:hromei@ing.uniroma2.it).
 
